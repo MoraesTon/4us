@@ -74,6 +74,10 @@ a {
     text-decoration: none;
 }
 
+a:active {
+    color: white;
+}
+
 .bottom {
     display: flex;
     justify-content: space-between;
