@@ -69,6 +69,11 @@ main {
     text-decoration: none;
 }
 
+a {
+    color: white;
+    text-decoration: none;
+}
+
 .bottom {
     display: flex;
     justify-content: space-between;
