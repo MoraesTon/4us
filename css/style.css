@@ -65,6 +65,8 @@ main {
 .item .text {
     letter-spacing: 2px;
     font-size: 1.2rem;
+    color: white;
+    text-decoration: none;
 }
 
 .bottom {
